@@ -45,9 +45,14 @@ public class C03_JsonObjesiOlusturma {
 
     JSONObject body = new JSONObject();
 
-    body.put("firstname","Jim");
-    body.put("firstname","Jim");
-    body.put("firstname","Jim");
-    body.put("firstname","Jim");
-    body.put("firstname","Jim");
-}}
+        body.put("firstname","Jim");
+        body.put("additionalneeds","Breakfast");
+        body.put("bookingdates",innerJsonObje);
+        body.put("totalprice",111);
+        body.put("depositpaid",true);
+        body.put("lastname","Brown");
+
+        System.out.println(body);
+
+    }
+}

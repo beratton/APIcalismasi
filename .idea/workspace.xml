@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0efdc91-94ce-42ba-a49b-bb2c8d8d4280" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/C03_JsonObjesiOlusturma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/C03_JsonObjesiOlusturma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,33 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.C03_JsonObjesiOlusturma.jsonObje01">
-    <configuration name="C01_Get_ApiSorgulama.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="APIcalismasi" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.C01_Get_ApiSorgulama" />
-      <option name="METHOD_NAME" value="get01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="JUnit.C06_Post_ResponseBodyTesti.post01">
     <configuration name="C02_Get_ResponseBilgileriAssertion.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="APIcalismasi" />
       <extension name="coverage">
@@ -97,11 +77,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C05_Get_ResponseBodyTesti.get01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIcalismasi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C05_Get_ResponseBodyTesti" />
+      <option name="METHOD_NAME" value="get01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_Post_ResponseBodyTesti.post01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIcalismasi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C06_Post_ResponseBodyTesti" />
+      <option name="METHOD_NAME" value="post01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_Post_ResponseBodyTesti.post02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="APIcalismasi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.C06_Post_ResponseBodyTesti" />
+      <option name="METHOD_NAME" value="post02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C06_Post_ResponseBodyTesti.post01" />
+        <item itemvalue="JUnit.C06_Post_ResponseBodyTesti.post02" />
+        <item itemvalue="JUnit.C05_Get_ResponseBodyTesti.get01" />
         <item itemvalue="JUnit.C03_JsonObjesiOlusturma.jsonObje01" />
         <item itemvalue="JUnit.C02_Get_ResponseBilgileriAssertion.get01" />
-        <item itemvalue="JUnit.C01_Get_ApiSorgulama.get01" />
       </list>
     </recent_temporary>
   </component>
